@@ -15,7 +15,7 @@ This project is complemented by two additional repositories which are crucial to
 
 1. **Backend Repository:** The backend logic for EmoChat is managed in a separate repository, which includes the server-side operations. It is built using NestJS and can be found at [EmoChat Backend](https://github.com/GermanDelRioGuzman/Talk_gpt_backend).
 
-2. **CNN for Emotion Recognition:** The convolutional neural network (CNN) used for emotion recognition is hosted in its own repository. This CNN is a key component in analyzing and interpreting the emotional state of the user. Check it out at [Facial Emotion Recognition CNN](https://github.com/GermanDelRioGuzman/FacialEmotionRecognitionCNN).
+2. **CNN for Emotion Recognition:** The convolutional neural network (CNN) used for emotion recognition is hosted in its own repository. This CNN is a key component in analyzing and interpreting the emotional state of the user. Check it out at [Facial Emotion Recognition CNN](https://github.com/GermanDelRioGuzman/FacialEmotionRecognition_CNN).
 
 ## Dependencies
 
